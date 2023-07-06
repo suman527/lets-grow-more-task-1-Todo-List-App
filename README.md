@@ -4,7 +4,7 @@ This is a simple to-do list web application built using HTML, CSS, and JavaScrip
 
 ## Deployed Link
 ```
-https://64a0566522c0774a0e878a33--gleeful-griffin-5490dc.netlify.app/
+https://to-do-list-task-website.netlify.app/
 ```
 
 ## Features
